@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>The coop</title>
+<title>Smart Water Tank</title>
 
 <style>
 .outer{
@@ -20,7 +20,7 @@
 
 
     <div align='center'> 
-        <h3>Real Time Tank Level Monitoring</h3> 
+        <h3>The Coop Monitoring</h3> 
         <p style='font-size:12px;color:grey'>The dashboard displays real time water level in a tank. Tank level is updated every minute on arrival of sensor data from Raspberry Pi. <a href='tank_simulation' target='_blank'>Simulation</a></p>
 	<p style='font-size:12px;color:black'>
 	  Hatch status: <?php include 'read_hatch_data.php'?>
