@@ -19,9 +19,9 @@ Start XAMPP:
 
 Follow instructions to set up the webserver and mySQL
  
-Start the Xampp panel with: sudo /opt/lampp/manager-linux-x64.run
+Start the Xampp panel with: ```sudo /opt/lampp/manager-linux-x64.run```
 
-Access the database through https://localhost/phpmyadmin
+Access the database through ```https://localhost/phpmyadmin```
 
 
 
