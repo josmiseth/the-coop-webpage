@@ -14,12 +14,14 @@ using UNetBootin: https://unetbootin.github.io/
 Install XAMPP: https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu
 
 Start XAMPP:
-`sudo /opt/lampp/./manager-linux-x64.run`
+```sudo /opt/lampp/./manager-linux-x64.run```
 
 
 Follow instructions to set up the webserver and mySQL
  
 Start the Xampp panel with: sudo /opt/lampp/manager-linux-x64.run
+
+Access the database through https://localhost/phpmyadmin
 
 
 
